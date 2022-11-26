@@ -95,11 +95,11 @@ Y escribimos lo siguiente:
 
 Ahora guardamos nuestro documento en una carpeta de fácil acceso como
 
-    C:\ACI777\scripts\primero.py
+    C:\ACI2080\scripts\primero.py
 
 Luego ejecutamos nuestro comando en el prompt de anaconda con la siguiente instrucción:
 
-    python C:\ACI777\scripts\primero.py
+    python C:\ACI2080\scripts\primero.py
 
 y me cuentan lo que pasa :trollface:.
 

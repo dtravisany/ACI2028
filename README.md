@@ -11,3 +11,10 @@ Tabla de contenidos de prácticos
 |6.Manipulación JSON con pandas 🐼||[JSON con pandas 🐼](code/clase_17dic/clase_17_12_22.ipynb)|[![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dtravisany/ACI2028/blob/main/code/clase_17dic/clase_17_12_22.ipynb)|
 |7. Conexión y Manipulación de API JSON con pandas 🐼||[API JSON con pandas 🐼](code/clase_17dic/clase_17_12_22_p2.ipynb)|[![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dtravisany/ACI2028/blob/main/code/clase_17dic/clase_17_12_22_p2.ipynb)|
 |8. Webscrapping con BeautifulSoup y pandas 🐼||[Webscraping con pandas 🐼](code/clase_17dic/clase_17_12_22_p3.ipynb)|[![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dtravisany/ACI2028/blob/main/code/clase_17dic/clase_17_12_22_p3.ipynb)|
+|9. Ordenamiento de Datos y Filtrado con pandas | |[Ordenamiento y Filtrado  🐼](code/24dic/clase24_12_2022.ipynb) |[![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dtravisany/ACI2028/blob/main/code/24dic/clase24_12_22.ipynb)|
+|10.| | ||
+|11.| | ||
+|12.| | ||
+|13.| | ||
+|14.| | ||
+

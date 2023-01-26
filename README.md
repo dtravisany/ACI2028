@@ -15,6 +15,6 @@ Tabla de contenidos de prácticos
 |10. Clase del profesor Osvaldo Yañez Parte 1| | |[![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-WSJZRgyPekzgRnBZAiMmj4tV_13GpA_?usp=sharing)|
 |11. Clase del profesor Osvaldo Yañez Parte 2| | |[![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eOaqD7zdIs_i4lz7Ul9NIgzvmXY3ZGIr?usp=sharing)|
 |12. Clase del profesor Osvaldo Yañez Parte 3| | |[![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1p0l47bkLlPag6ujV-OcYnOaCjbYchZxt?usp=sharing)|
-|13.| | ||
-|14.| | ||
-
+|13. Selección Condicional|[Selección Condicional](code/21enero2023/clase_21_01_23__seleccion_condicional.ipynb) | |[![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dtravisany/ACI2028/blob/main/code/21enero2023/clase_21_01_23__seleccion_condicional.ipynb)|
+|14. Influencia en Regresiones|[Influencia en Regresiones](code/21enero2023/clase_21_01_23_regresion_influencia.ipynb) | |[![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dtravisany/ACI2028/blob/main/code/21enero2023/clase_21_01_23_regresion_influencia.ipynb)|
+|15. ||||

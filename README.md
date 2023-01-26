@@ -12,9 +12,9 @@ Tabla de contenidos de prácticos
 |7. Conexión y Manipulación de API JSON con pandas 🐼||[API JSON con pandas 🐼](code/clase_17dic/clase_17_12_22_p2.ipynb)|[![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dtravisany/ACI2028/blob/main/code/clase_17dic/clase_17_12_22_p2.ipynb)|
 |8. Webscrapping con BeautifulSoup y pandas 🐼||[Webscraping con pandas 🐼](code/clase_17dic/clase_17_12_22_p3.ipynb)|[![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dtravisany/ACI2028/blob/main/code/clase_17dic/clase_17_12_22_p3.ipynb)|
 |9. Ordenamiento de Datos y Filtrado con pandas | |[Ordenamiento y Filtrado  🐼](code/24dic/clase24_12_2022.ipynb) |[![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dtravisany/ACI2028/blob/main/code/24dic/clase24_12_22.ipynb)|
-|10.| | ||
-|11.| | ||
-|12.| | ||
+|10. Clase del profesor Osvaldo Yañez Parte 1| | |[![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-WSJZRgyPekzgRnBZAiMmj4tV_13GpA_?usp=sharing)|
+|11. Clase del profesor Osvaldo Yañez Parte 2| | |[![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eOaqD7zdIs_i4lz7Ul9NIgzvmXY3ZGIr?usp=sharing)|
+|12. Clase del profesor Osvaldo Yañez Parte 3| | |[![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1p0l47bkLlPag6ujV-OcYnOaCjbYchZxt?usp=sharing)|
 |13.| | ||
 |14.| | ||
 
